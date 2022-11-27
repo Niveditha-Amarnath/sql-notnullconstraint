@@ -1,0 +1,5 @@
+//statement to create a table countries set a constraint NULL
+CREATE TABLE countries ( 
+COUNTRY_ID varchar(3) NOT NULL,
+COUNTRY_NAME varchar(50) NOT NULL,
+);
